@@ -2,7 +2,7 @@
 /**
 *main - This is the entry point of the program
 *
-*Return - returns zero if no errors otherwise returns non-zero value
+*Return: returns zero if no errors otherwise returns non-zero value
 *
 */
 
